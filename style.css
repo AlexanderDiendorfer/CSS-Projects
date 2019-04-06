@@ -1,0 +1,8 @@
+.txtimg {
+  display: inline-block;
+  text-align: center;
+}
+.txtimg > a > img {
+  margin: 5px;
+  display: block;
+}
